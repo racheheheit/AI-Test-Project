@@ -12,4 +12,4 @@ Developer Push
 → GitHub Actions
 → Test Failure
 → GitHub workflow_run Webhook
-→ AISolver Express Backend
+→ AISolver Express Backendtrigger webhook
